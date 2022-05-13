@@ -1,0 +1,8 @@
+﻿stacklayout {
+    background-color: #689450;
+}
+    stacklayout > label{
+        color: #FFFFFF;
+        text-align:center;
+        
+    }

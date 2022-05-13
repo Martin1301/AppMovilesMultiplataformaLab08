@@ -1,0 +1,16 @@
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\bin\Debug\netstandard2.0\CssEjemplo.deps.json
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\bin\Debug\netstandard2.0\CssEjemplo.dll
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\bin\Debug\netstandard2.0\CssEjemplo.pdb
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.csproj.AssemblyReference.cache
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\Styles.css.g.cs
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.AssemblyInfoInputs.cache
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.AssemblyInfo.cs
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.csproj.CoreCompileInputs.cache
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.dll
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\refint\CssEjemplo.dll
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\CssEjemplo.pdb
+D:\5to_ciclo\Aplicaciones Móviles Multiplataforma\Sem8\CssEjemplo\CssEjemplo\CssEjemplo\obj\Debug\netstandard2.0\ref\CssEjemplo.dll
